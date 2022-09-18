@@ -8,6 +8,7 @@ body {
   margin: 20px auto;
 }
 .crossed{
+   text-decoration: line-through 2px red;
   -webkit-text-decoration-line: line-through;
   -webkit-background-color: #f0f0f0;
    -webkit-text-decoration-color:red;
